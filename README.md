@@ -1,2 +1,3 @@
-# h4dr14ns-firewall
-H4Dr14N's Firewall
+# Hadrian's Firewall
+
+The Hordes of Hot Chicks are invading the Empire of Coolness, and the only defense is your firewall. Build the wall, man the stations, thin the herd, or fail miserably!
